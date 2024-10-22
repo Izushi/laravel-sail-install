@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="Ou7hMJy8cX0kU1URrjH_" name="Page-1">
+        <mxGraphModel dx="780" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="113" y="131" width="629" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="HostOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="18">
+                    <mxGeometry y="120" width="413" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="docker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="18">
+                    <mxGeometry x="15" y="60" width="383" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="18">
+                    <mxGeometry x="15" width="59" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="MeiliSearch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="18">
+                    <mxGeometry x="178.5" width="59" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="18">
+                    <mxGeometry x="97" width="59" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Selenim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="18">
+                    <mxGeometry x="339" width="59" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Mailpit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="18">
+                    <mxGeometry x="259" width="59" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBackgroundColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="18">
+                    <mxGeometry x="403" y="-7" width="23" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Containers provided for &lt;br&gt;Laravel Sail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="18">
+                    <mxGeometry x="431" y="9.5" width="143" height="41" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
