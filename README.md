@@ -14,9 +14,21 @@ Laravel Sail は、Laravel フレームワークの公式開発環境です。Sa
     - 例えば Laravel のバージョンは PHP のバージョンに依存しているが、プロジェクトごとの環境を docker-compose.yml ファイルで設定することでバージョンを簡単に切り替えることができる。
 
 ![Sail Containers](./public//images/sail_containers_image.png)
-Laravel Sail によって Docker を使用し、プロジェクトを作成すると下図のような構成になる。
+Laravel Sail によって Docker を使用し、プロジェクトを作成すると上図のような構成になる。
 
 ##　使用方法
+
+**開発環境**
+
+-   Mac
+-   PHP 8.3
+-   Laravel 11
+-   Docker
+
+**前提条件**
+
+Laravel プロジェクト作成前に Docker desktop をダウンロードし起動しておく。
+https://www.docker.com/products/docker-desktop/
 
 ### 1. Laravel プロジェクトの作成
 

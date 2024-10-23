@@ -14,9 +14,21 @@ Laravel Sail is the official development environment for the Laravel framework. 
     - For example, the version of Laravel depends on the version of PHP, but by setting the environment for each project in the docker-compose.yml file, you can easily switch versions.
 
 ![Sail Containers](./public//images/sail_containers_image.png)
-When you create a project using Docker with Laravel Sail, the structure will look like the diagram below.
+When you create a project using Docker with Laravel Sßßail, the structure will look like the diagram below.
 
 ## Usage
+
+**Development Environment**
+
+-   Mac
+-   PHP 8.3
+-   Laravel 11
+-   Docker
+
+**Prerequisites**
+
+Before creating a Laravel project, download and start Docker Desktop.
+https://www.docker.com/products/docker-desktop/
 
 ### 1. Creating a Laravel Project
 
